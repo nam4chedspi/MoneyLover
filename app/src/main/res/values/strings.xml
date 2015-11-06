@@ -2,6 +2,9 @@
     <string name="app_name">MoneyLover</string>
     <string name="title_activity_login">LoginActivity</string>
     <string name="login.loginMessage">Sync your data and manage your money efficiently wherever you go.</string>
-    <string name="login_loginRegisterButton">Register</string>
-    <string name="login_loginLoginButton">Login</string>
+    <string name="login_loginRegisterButton">REGISTER</string>
+    <string name="login_loginLoginButton">LOGIN</string>
+    <string name="login_maybeLater">Maybe later,</string>
+    <string name="login_tryTheApp">JUST TRY THE APP >></string>
+    <string name="login_restoreData">RESTORE DATA</string>
 </resources>
